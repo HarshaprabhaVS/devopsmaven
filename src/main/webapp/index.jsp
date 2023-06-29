@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Docker is a container tool</h2>
+<h2>Kubernetes & Docker is our Next topic</h2>
 </body>
 </html>
